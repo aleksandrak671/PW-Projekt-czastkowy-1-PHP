@@ -1,1 +1,1 @@
-# PW-Projekt-cz-stkowy-1-PHP
+# PW-Projekt-cząstkowy-1-PHP
