@@ -1,4 +1,4 @@
-# PW Projekt: cząstkowy 1 PHP (User Registration System)
+# PHP User Registration System
 
 Simple user registration system built with PHP and MySQL.
 
